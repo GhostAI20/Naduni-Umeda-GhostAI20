@@ -21,4 +21,4 @@
 ![Naduni's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaduniUmeda&show_icons=true&theme=tokyonight)
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naduni-umeda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GhostAI20/)
